@@ -1,8 +1,7 @@
 {
   "name": "@riim/uid",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
-  "type": "module",
   "main": "dist/uid.js",
   "typings": "dist/uid.d.ts",
   "scripts": {
